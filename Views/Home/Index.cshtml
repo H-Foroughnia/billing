@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+@* <img src="~/img/FirstMission.jpg"/> *@
+<div class="alert alert-success" role="alert">
+    تبریک، شماره کارت وارد شده معتبر است!
+</div>
+<div class="alert alert-success" role="alert">
+    آخرین برداشت حساب شما: سفارش آنلاین از دیجی کالا.
+</div>
+<div class="d-grid gap-2 col-6 mx-auto">
+    <a asp-controller="Home" asp-action="success" class="btn btn-primary">
+    <button class="btn btn-primary" type="button">نمایش فاکتور</button>
+    </a>
+</div>

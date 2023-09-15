@@ -1,0 +1,63 @@
+@model billing.ViewModels.Account.LoginUserViewModel
+@* @{ *@
+@*     ViewData["Title"] = "ورود"; *@
+@* } *@
+@* @section scripts{ *@
+@*     <partial name="_ValidationScriptsPartial" /> *@
+@* } *@
+@* *@
+@* <nav aria-label="breadcrumb" class="breadcrumb-nav border-0 mb-0"> *@
+@*     <div class="container"> *@
+@*         <ol class="breadcrumb"> *@
+@*             <li class="breadcrumb-item"><a href="/">خانه</a></li> *@
+@*             <li class="breadcrumb-item active" aria-current="page">@ViewData["Title"]</li> *@
+@*         </ol> *@
+@*     </div><!-- End .container --> *@
+@* </nav> *@
+@* *@
+@* *@
+@* <div class="login-page bg-image pt-8 pb-8 pt-md-12 pb-md-12 pt-lg-17 pb-lg-17"> *@
+@*     <div class="container"> *@
+@*         <div class="form-box"> *@
+@*             <div class="form-tab"> *@
+@*                 <div class="tab-content"> *@
+@*                     <form asp-controller="Account" asp-action="Login" method="post"> *@
+@*                         <div class="form-group"> *@
+@*                             <label for="singin-email-2">شماره کارت</label> *@
+@*                             <input type="text" asp-for="CardNumber" class="form-control"> *@
+@*                             <span asp-validation-for="CardNumber" class="text-danger"></span> *@
+@*                         </div> *@
+@*                         <div class="form-footer"> *@
+@*                             <button type="submit" class="btn btn-outline-primary-2"> *@
+@*                                 <span>ورود</span> *@
+@*                                 <i class="icon-long-arrow-left"></i> *@
+@*                             </button> *@
+@*                         </div> *@
+@*                     </form> *@
+@*                 </div><!-- End .tab-content --> *@
+@*             </div><!-- End .form-tab --> *@
+@*         </div><!-- End .form-box --> *@
+@*     </div><!-- End .container --> *@
+@* </div> *@
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<form asp-controller="Account" asp-action="Login" method="post">
+    <div class="form-group">
+        <input asp-for="CardNumber" type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="شماره کارت">
+        <small id="emailHelp" class="form-text text-muted">لطفا در وارد کردن شماره کارت دقت کنید!</small>
+    </div>
+    <div class="d-grid gap-2 col-6 mx-auto">
+        <input class="btn btn-primary" type="submit" value="بررسی"/>
+    </div>
+</form>

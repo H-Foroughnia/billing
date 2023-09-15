@@ -1,0 +1,150 @@
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/appsettings.Development.json
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/appsettings.json
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/billing.staticwebassets.runtime.json
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/billing
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/billing.deps.json
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/billing.runtimeconfig.json
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/billing.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/billing.pdb
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Azure.Core.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Azure.Identity.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Humanizer.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.CodeDom.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.csproj.AssemblyReference.cache
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.AssemblyInfoInputs.cache
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.AssemblyInfo.cs
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.csproj.CoreCompileInputs.cache
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.MvcApplicationPartsAssemblyInfo.cache
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.RazorAssemblyInfo.cache
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.RazorAssemblyInfo.cs
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/staticwebassets/msbuild.billing.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/staticwebassets/msbuild.build.billing.props
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.billing.props
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.billing.props
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/staticwebassets.build.json
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/staticwebassets.development.json
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/scopedcss/bundle/billing.styles.css
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/scopedcss/projectbundle/billing.bundle.scp.css
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.csproj.CopyComplete
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/refint/billing.dll
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.pdb
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/billing.genruntimeconfig.cache
+/Users/hamidforoughnia/Documents/dotnet Projects/billing/billing/obj/Debug/net7.0/ref/billing.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/appsettings.Development.json
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/appsettings.json
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/billing.staticwebassets.runtime.json
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/billing
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/billing.deps.json
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/billing.runtimeconfig.json
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/billing.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/billing.pdb
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Azure.Core.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Azure.Identity.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Humanizer.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.CodeDom.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hamidforoughnia/Downloads/billing/billing/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.csproj.AssemblyReference.cache
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.AssemblyInfoInputs.cache
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.AssemblyInfo.cs
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.csproj.CoreCompileInputs.cache
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.MvcApplicationPartsAssemblyInfo.cache
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.RazorAssemblyInfo.cache
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.RazorAssemblyInfo.cs
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/staticwebassets/msbuild.billing.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/staticwebassets/msbuild.build.billing.props
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.billing.props
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.billing.props
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/staticwebassets.build.json
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/staticwebassets.development.json
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/scopedcss/bundle/billing.styles.css
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/scopedcss/projectbundle/billing.bundle.scp.css
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.csproj.CopyComplete
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.dll
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/refint/billing.dll
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.pdb
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/billing.genruntimeconfig.cache
+/Users/hamidforoughnia/Downloads/billing/billing/obj/Debug/net7.0/ref/billing.dll

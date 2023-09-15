@@ -1,0 +1,30 @@
+@model billing.ViewModels.Account.RegisterUserViewModel
+@{
+    ViewData["Title"] = "ثبت نام";
+}
+
+
+
+<div class="login-page bg-image pt-8 pb-8 pt-md-12 pb-md-12 pt-lg-17 pb-lg-17">
+    <div class="container">
+        <div class="form-box">
+            <div class="form-tab">
+                <div class="tab-content">
+                    <form asp-controller="Account" asp-action="Register" method="post">
+                        <div class="form-group">
+                            <label for="singin-email-2">شماره کارت</label>
+                            <input type="text" asp-for="CardNumber" class="form-control">
+                            <span asp-validation-for="CardNumber" class="text-danger"></span>
+                        </div>
+                        <div class="form-footer">
+                            <button type="submit" class="btn btn-outline-primary-2">
+                                <span>ثبت نام</span>
+                                <i class="icon-long-arrow-left"></i>
+                            </button>
+                        </div>
+                    </form>
+                </div><!-- End .tab-content -->
+            </div><!-- End .form-tab -->
+        </div><!-- End .form-box -->
+    </div><!-- End .container -->
+</div>
